@@ -1,0 +1,19 @@
+.footer{
+    background-color:#000;
+    margin-top: 50px;
+    border-top: 2px solid #3b2d38;
+    width: 100%;
+    min-height: 300px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 0;
+    color: #fff;
+}
+
+
+.content-footer{
+    background-color: #000;   
+}

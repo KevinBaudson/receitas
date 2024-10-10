@@ -1,0 +1,9 @@
+.error{
+    display: flex;
+    flex-direction: column;
+}
+
+.error h1{
+    text-align: center;
+}
+

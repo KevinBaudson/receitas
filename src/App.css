@@ -1,0 +1,10 @@
+*{
+    background-color: #fff;
+    box-sizing: border-box;
+    font-family: "Nunito", sans-serif;
+}
+html, body{
+    max-width: 1080px;
+    margin: 10px auto;
+    padding: 0;
+}
